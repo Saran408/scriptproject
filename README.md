@@ -153,9 +153,9 @@ calcBtn.addEventListener('click',function(e){
 
 ## CODE VALIDATION REPORT:
 
-![output](./static/img/njs v.png)
+![output](./static/img/njsv.png)
 
-![output](./static/img/js v.png)
+![output](./static/img/jsv.png)
 
 ## RESULT:
 Thus a website is designed for the add two numbers and is hosted in the URL http://kumaravel.student.saveetha.in:8000/addnumber. HTML code is validated.
